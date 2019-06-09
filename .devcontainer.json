@@ -2,6 +2,8 @@
 {
 	"dockerFile": "Dockerfile.dev",
 	"extensions": [
-		"ms-python.python"
+		"ms-python.python",
+		"shamanu4.django-intellisense",
+		"batisteo.vscode-django"
 	]
 }
